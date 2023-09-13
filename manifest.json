@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Hello World Extension",
+    "version": "1.0",
+    "description": "Uma extensão simples que exibe 'Hello, World!'",
+    "permissions": [],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
